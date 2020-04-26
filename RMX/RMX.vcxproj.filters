@@ -27,9 +27,15 @@
     <ClInclude Include="src\RMX\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\RMX\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\RMX\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\RMX\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

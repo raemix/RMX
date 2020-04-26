@@ -1,8 +1,8 @@
 #pragma once
 
-#include "RMX/Application.h"
 #include <stdio.h>
-
+#include "RMX/Application.h"
+#include "RMX/Log.h"
 
 
 // -- Entry Point-----------
